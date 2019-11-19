@@ -1,4 +1,4 @@
-# react-redux-registration-login attemp 4
-
-React + Redux - User Registration and Login Tutorial & Example
-this code is not totally created by me.. i used other online sources to find this code as used and per my needs.
+# react-redux-registration-login 
+I also had created the basic login forms without the use of redux in before attempts.
+React + Redux - User Registration login
+as i had to submit my project phase 1 in college, i used other online sources to find this code and used as per my needs.(so not totally created from scratch)
